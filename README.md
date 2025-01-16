@@ -1,10 +1,10 @@
 Hypurr Tilted download repo
 
-This is the download repo for updates to the Hypurr Tilted Chrome extension, prior to it being published on the Chrome Web Store.
+This is the download repo for updates to the Hypurr Tilted Chrome extension.
 
 Notes
 
-App release 1.0 for Chrome is here
+App release 1.3 fixes for the shuffled obsfucated code which checks for tilt token balance. 
 
 How to install:
 
