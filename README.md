@@ -9,7 +9,7 @@ App release 1.0 for Chrome is here
 How to install:
 
 1. Download and extract zip to a local folder (https://github.com/tiltmenot/download/blob/main/tilted.zip)
-2. Click build.zip on the left, then on the page that opens click the Download Raw icon top right
+2. Click tilted.zip on the left, then on the page that opens click the Download Raw icon top right
 3. Open Chrome and go to chrome://extensions in address bar
 4. Enable developer mode (top right)
 5. Click the Load Unpacked button (top right)
