@@ -8,15 +8,15 @@ App release 1.0 for Chrome is here
 
 How to install:
 
-Download and extract zip to a local folder (https://github.com/tiltmenot/download/blob/main/tilted.zip)
-Click build.zip on the left, then on the page that opens click the Download Raw icon top right
-Open Chrome and go to chrome://extensions in address bar
-Enable developer mode (top right)
-Click the Load Unpacked button (top right)
-Extension will install
-Go to https://app.hypurr.fun/launches
-Click the little Extensions button top right
-Pin the Hypurr Tilt extension, then click it
+1. Download and extract zip to a local folder (https://github.com/tiltmenot/download/blob/main/tilted.zip)
+2. Click build.zip on the left, then on the page that opens click the Download Raw icon top right
+3. Open Chrome and go to chrome://extensions in address bar
+4. Enable developer mode (top right)
+5. Click the Load Unpacked button (top right)
+6. Extension will install
+7. Go to https://app.hypurr.fun/launches
+8. Click the little Extensions button top right
+9. Pin the Hypurr Tilt extension, then click it
 
 You don't need any TILT to use the tool.
 
