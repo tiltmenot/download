@@ -1,6 +1,6 @@
 Hypurr Tilted download repo
 
-This is the download repo for updates to the Hypurr Tilt Chrome extension, prior to it being published on the Chrome Web Store.
+This is the download repo for updates to the Hypurr Tilted Chrome extension, prior to it being published on the Chrome Web Store.
 
 Notes
 
