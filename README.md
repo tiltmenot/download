@@ -4,7 +4,7 @@ This is the download repo for updates to the Hypurr Tilted Chrome extension.
 
 Notes
 
-App release 1.3 fixes for the shuffled obsfucated code which checks for tilt token balance. 
+App release 1.0.4 bug fixes. 
 
 How to install:
 
