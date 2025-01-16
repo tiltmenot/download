@@ -17,7 +17,7 @@ Extension will install
 Go to https://app.hypurr.fun/launches
 Click the little Extensions button top right
 Pin the Hypurr Tilt extension, then click it
-Note as per the Whitepaper, you need 1000 TILT to use the tool.
+You don't need any TILT to use the tool.
 
 The app is using the hypurr.fun backend, if that backend gets overloaded, then the app will be impacted (same way the website and TG both get impacted).
 
